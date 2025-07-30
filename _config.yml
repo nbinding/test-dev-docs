@@ -1,0 +1,4 @@
+title: Deko Developer Docs
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-include-cache
